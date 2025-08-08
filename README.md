@@ -1,4 +1,3 @@
-# PatternGenerator-java
 # 🎯 Java Pattern Generator
 
 ## 📌 Project Overview
