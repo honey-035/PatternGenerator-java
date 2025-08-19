@@ -14,7 +14,6 @@ This project is created as part of **BCA 2nd Year, 3rd Semester** at **Dezyne Ec
 - ✅ `switch-case` menu system.
 - ✅ Option to **press 1 to continue** after each output.
 - ✅ User input no. of rows for all patterns
-- .
 - ✅ Beginner-friendly UI.
 
 ---
