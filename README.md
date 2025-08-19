@@ -13,7 +13,8 @@ This project is created as part of **BCA 2nd Year, 3rd Semester** at **Dezyne Ec
 - ✅ Categorized into **Easy, Medium, Hard**.
 - ✅ `switch-case` menu system.
 - ✅ Option to **press 1 to continue** after each output.
-- ✅ Fixed **n = 5** rows for all patterns (can be modified in code).
+- ✅ User input no. of rows for all patterns
+- .
 - ✅ Beginner-friendly UI.
 
 ---
